@@ -74,7 +74,7 @@ export default function App() {
           <h1 className="text-3xl sm:text-5xl lg:text-6xl font-black text-white tracking-tight leading-[1.15] max-w-4xl mx-auto">
             Faça de{' '}
             <span className="bg-gradient-to-r from-[#00e5ff] via-[#38bdf8] to-[#10b981] bg-clip-text text-transparent drop-shadow-[0_0_25px_rgba(0,229,255,0.4)]">
-              R$ 4.500 a R$ 5.000 / Mês
+              R$ 3.500 a R$ 5.000 / Mês
             </span>{' '}
             Vendendo 3 Placas Por Dia
           </h1>
