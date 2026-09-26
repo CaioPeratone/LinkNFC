@@ -1,0 +1,6 @@
+{
+  "name": "LinkNFC",
+  "description": "Fornecedor nacional de placas de avaliação do Google com tecnologia NFC a pronta entrega para revendedores com envio imediato.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
